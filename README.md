@@ -11,6 +11,12 @@ I'm **@mvteus**, also know as Mateus Souza
 - 🌱 I’m currently learning about DevOps culture...
 - 👯 I’m looking to collaborate on tools about DevOps, SRE and its strands...
 
+<a href="https://github.com/mvteus">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mvteus&theme=dracula&show_icons=true" />
+</a>
+
+<h3> :earth_americas: &nbsp;Where to find me: </h3>
+
 [![Linkedin: Mateus Souza](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-souza-da-silva-a9a657171/)](https://www.linkedin.com/in/mateus-souza-da-silva-a9a657171/)
 [![Gmail Badge](https://img.shields.io/badge/-mma.teuzzz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mma.teuzzz@gmail.com)](mailto:mma.teuzzz@gmail.com)
 [![GitHub mvteus]( https://img.shields.io/github/followers/mvteus?label=follow&style=social)](https://github.com/mvteus/)
