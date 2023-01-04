@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm **@mvteus**, also know as Mateus Souza
+I'm [**@mvteus**](https://github.com/mvteus), also know as Mateus Souza
 
 - 🔭 I’m currently working on my portfolio website and blog, where most of time I'll talk about DevOps...
 - 🌱 I’m currently learning about DevOps culture...
