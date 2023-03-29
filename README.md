@@ -17,7 +17,7 @@ I'm [**@mvteus**](https://github.com/mvteus), also know as Mateus Souza
 
 <h3> :earth_americas: &nbsp;Where to find me: </h3>
 
-[![Linkedin: Mateus Souza](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateus-souza-da-silva-a9a657171/)](https://www.linkedin.com/in/mateus-souza-da-silva-a9a657171/)
+[![Linkedin: Mateus Souza](https://img.shields.io/badge/-Mateus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateussouzadasilva/)](https://www.linkedin.com/in/mateus-souza-da-silva-a9a657171/)
 [![Gmail Badge](https://img.shields.io/badge/-mma.teuzzz@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mma.teuzzz@gmail.com)](mailto:mma.teuzzz@gmail.com)
 [![GitHub mvteus]( https://img.shields.io/github/followers/mvteus?label=follow&style=social)](https://github.com/mvteus/)
 <!--
